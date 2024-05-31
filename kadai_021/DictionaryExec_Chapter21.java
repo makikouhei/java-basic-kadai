@@ -7,7 +7,7 @@ public class DictionaryExec_Chapter21 {
 		Dictionary_Chapter21 dictionary = new Dictionary_Chapter21();
 		String[] fruit= {"apple", "banana", "grape", "orange"};
 		
-		dictionary.chek(fruit);
+		dictionary.check(fruit);
 
 	}
 

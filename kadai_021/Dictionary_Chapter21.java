@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class Dictionary_Chapter21 {
 	
 	
-	public void chek(String[] word) {
+	public void check(String[] word) {
 	HashMap<String, String>  dictionary= new HashMap<>();
 		
 	dictionary.put("apple", "りんご");
